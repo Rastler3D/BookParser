@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookReader", "ClassLibrary1\BookReader.csproj", "{3E425293-4883-4B9A-A303-B32534D8B492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Debug|ARM.ActiveCfg = Debug|ARM
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Debug|ARM.Build.0 = Debug|ARM
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Debug|ARM64.Build.0 = Debug|ARM64
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Debug|x64.ActiveCfg = Debug|x64
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Debug|x64.Build.0 = Debug|x64
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Debug|x86.ActiveCfg = Debug|x86
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Debug|x86.Build.0 = Debug|x86
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Release|ARM.ActiveCfg = Release|ARM
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Release|ARM.Build.0 = Release|ARM
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Release|ARM64.ActiveCfg = Release|ARM64
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Release|ARM64.Build.0 = Release|ARM64
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Release|x64.ActiveCfg = Release|x64
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Release|x64.Build.0 = Release|x64
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Release|x86.ActiveCfg = Release|x86
+		{3E425293-4883-4B9A-A303-B32534D8B492}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9A2F17C-9F80-4AEA-A260-7C46D06AA1C0}
+	EndGlobalSection
+EndGlobal
